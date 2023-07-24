@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Seja Bem Vindo, Coruja</h1>
+    return <h1>Seja Bem Vindo, Coruja☕ </h1>
 
 }
 
